@@ -15,23 +15,41 @@ Tasty tales is a recipe sharing platform where users can share, explore, and rev
 
 1. 👩🏻‍🍳 **User Features:**
 
-- **User Authentication** - Signup/Login with email and password.
-- **Create & Manage Recipes** - Add, edit, delete your own recipes.
-- **Image Upload** - Upload pictures of dishes for better presentation.
-- **Search & Filter** - Find recipes based on name, ingredients, or category.
-- **Ratings & Reviews** - Rate dishes and leave comments.
-- **Bookmark Recipes** - Save your favorite recipes for later.
+   - **User Authentication** - Signup/Login with email and password.
+   - **Create & Manage Recipes** - Add, edit, delete your own recipes.
+   - **Image Upload** - Upload pictures of dishes for better presentation.
+   - **Search & Filter** - Find recipes based on name, ingredients, or category.
+   - **Ratings & Reviews** - Rate dishes and leave comments.
+   - **Bookmark Recipes** - Save your favorite recipes for later.
 
-2.🛠️ **Admin Features:**
+1. 🛠️ **Admin Features:**
 
-- **Manage Users** - Restrict or ban users if necessary.
-- **Recipe Moderation** - Remove inappropriate recipes.
-- **Comment Moderation** - Delete offensive or spam comments.
+   - **Manage Users** - Restrict or ban users if necessary.
+   - **Recipe Moderation** - Remove inappropriate recipes.
+   - **Comment Moderation** - Delete offensive or spam comments.
 
 ### **Project Workflow:**
 
-    1️⃣ User signs up or logs in.
-    2️⃣ User explores recipes, searches, and bookmarks favorites.
-    3️⃣ User adds a new recipe with images, ingredients, and instructions.
-    4️⃣ Other users can comment, rate, and interact.
-    5️⃣ Admins manage content and user activities.
+1. **Home Page**
+     - Displays trrending recipes.
+     - Search bar to find recipes by name, category, or ingredient.
+1. **Signup & Login Page**
+     - User authentication with email and password.
+     - Redirects to user dashboard after successful login.
+1. **User Dashboard**
+     - Displays user's uploaded recipes.
+     - Lists bookmarked recipes.
+     - Option to add new recipe.
+1. **Recipe Details Page**
+     - Displys recipe name, ingredients, steps and cooking time along with the pictures uploaded by the users if any.
+     - Users can comment and rate the recipe.
+     - "Save to Favourites" option for the users.
+1. **Admin Dashboard**
+     - View, edit or delete any recipe.
+     - Remove inappropriate comments.
+
+### **Tech Stack:**
+
+- **Frontend** - Reactjs
+- **Backend** - Nodejs, Expressjs
+- **Database** - MongoDB
