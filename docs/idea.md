@@ -7,9 +7,9 @@ Tasty tales is a recipe sharing platform where users can share, explore, and rev
 - Interact with others through comments and ratings
 - Bookmark their favourite recipes
 
-## Idea Behind DishDive  
+## Idea Behind Tasty Tales  
 
-The idea behind **DishDive** is to create a **collaborative digital cookbook** that allows users to:  
+The idea behind **Tasty Tales** is to create a **collaborative digital cookbook** that allows users to:  
 
 - 📌 **Share** their favorite recipes with **step-by-step instructions** and images.  
 - 🌍 **Discover** new recipes from **different cultures and cuisines**.  
