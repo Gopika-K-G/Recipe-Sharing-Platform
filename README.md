@@ -51,5 +51,5 @@ Tasty tales is a recipe sharing platform where users can share, explore, and rev
 ### **Tech Stack:**
 
 - **Frontend** - Reactjs
-- **Backend** - Nodejs, Expressjs
+- **Backend** - Nodejs + Expressjs
 - **Database** - MongoDB
