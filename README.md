@@ -53,7 +53,7 @@ Tasty tales is a recipe sharing platform where users can share, explore, and rev
      - Users can comment and rate the recipe.
      - "Save to Favourites" option for the users.
 
-     ![Browse Recipes](4-Browse-Recipes-Page-2x.png)
+     ![Browse Recipes](Browse-Recipes-Page-2x.png)
 1. **Admin Dashboard**
      - View, edit or delete any recipe.
      - Remove inappropriate comments.
