@@ -34,15 +34,15 @@ Tasty tales is a recipe sharing platform where users can share, explore, and rev
      - Displays trrending recipes.
      - Search bar to find recipes by name, category, or ingredient.
 
-     ![Home page](Homepage-2x.png)
+     ![Home page](1-Homepage-2x.png)
 
 1. **Signup & Login Page**
      - User authentication with email and password.
      - Redirects to user dashboard after successful login.
 
-     ![Signup Page](Signup-Page-2x.png)  
+     ![Signup Page](2-Signup-Page-2x.png)  
 
-     ![Login Page](Login-Page-2x.png)  
+     ![Login Page](3-Login-Page-2x.png)  
 
 1. **User Dashboard**
      - Displays user's uploaded recipes.
